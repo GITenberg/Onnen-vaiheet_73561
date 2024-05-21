@@ -1,0 +1,29 @@
+_repo: Onnen-vaiheet_73561
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Laine, Juho
+    alias: Laine, Johannes
+    birthdate: 1856
+    deathdate: 1937
+    gutenberg_agent_id: '56670'
+    url: http://www.gutenberg.org/2009/agents/56670
+    wikipedia: https://fi.wikipedia.org/wiki/Juho_Laine
+description: ''
+gutenberg_issued: '2024-05-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73561'
+language: fi
+pgterms:marc905: 20231120002606laine
+pgterms:marc906: '1888'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aPori :$bAdolf Allardt, $c1888.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Onnen vaiheet
+url: http://www.gutenberg.org/ebooks/73561
